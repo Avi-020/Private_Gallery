@@ -24,11 +24,13 @@ import img17 from "../images/img (17).jpeg"
 import img18 from "../images/img (18).jpeg"
 import img19 from "../images/img (19).jpeg"
 import img20 from "../images/img (20).jpeg"
+import Videos from './Videos';
 
 
 function Gallery() {
   return (
     <div>
+      <Videos/>
        <MDBRow>
       <MDBCol lg={4} md={12} className='mb-4 mb-lg-0'>
         <img
