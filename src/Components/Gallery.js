@@ -30,7 +30,8 @@ import Videos from './Videos';
 function Gallery() {
   return (
     <div>
-      <Videos/>
+      <Videos/> 
+      <h1>hii</h1>
        <MDBRow>
       <MDBCol lg={4} md={12} className='mb-4 mb-lg-0'>
         <img
