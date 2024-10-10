@@ -10,7 +10,6 @@ import img3 from "../images/img (3).jpeg"
 import img4 from "../images/img (4).jpeg"
 import img5 from "../images/img (5).jpeg"
 import img6 from "../images/img (6).jpeg"
-import img7 from "../images/img (7).jpeg"
 import img8 from "../images/img (8).jpeg"
 import img9 from "../images/img (9).jpeg"
 import img10 from "../images/img (10).jpeg"
@@ -88,11 +87,7 @@ function Gallery() {
         </MDBCol>
 
         <MDBCol lg={4} className='mb-4 mb-lg-0'>
-          <img
-            src={img7}
-            className='w-100 shadow-1-strong rounded mb-4'
-            alt='Waves at Sea'
-          />
+          
 
           <img
             src={img8}
