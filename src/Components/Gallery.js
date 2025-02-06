@@ -42,6 +42,7 @@ function Gallery() {
           <button type="button" className="btn btn-primary mb-4 ">Watch Vlogs Bbu </button>
         </a>
       </div>
+      <h1>Ya sunday Pariyant 09 Feb 2025 Pariyant Sunam Teri Kasam Movie Theater la aasanar aahe So tula vatal aapn jav Sobat tr PLease Call kr Mla Mazi khup EEcha aahe ti Movie Tuza Sobat Pahayachi bala .....baki take Care Love You Forever </h1>
 
       <MDBRow>
         <MDBCol lg={4} md={12} className='mb-4 mb-lg-0'>
@@ -87,7 +88,7 @@ function Gallery() {
         </MDBCol>
 
         <MDBCol lg={4} className='mb-4 mb-lg-0'>
-          
+
 
           <img
             src={img8}
@@ -206,7 +207,7 @@ function Gallery() {
             alt='Waves at Sea'
           />
 
-         
+
         </MDBCol>
       </MDBRow>
 
